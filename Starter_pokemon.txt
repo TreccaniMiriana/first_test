@@ -5,6 +5,11 @@ Charmander
 Bulbasaur
 Squirtle
 
+NOT STARTER
+Snorlax
+Pidgey
+Eevee
+
 II generation
 
 Chikorita
@@ -12,6 +17,7 @@ Totodile
 Cyndaquil
 
 III generation
+
 Treecko
 Torchic
 Mudkip
