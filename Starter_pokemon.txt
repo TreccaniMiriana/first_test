@@ -4,3 +4,9 @@ I generation
 Charmender
 Bulbasaur
 Squirtle
+
+II generation
+
+Chikorita
+Totodile
+Cyndaquil
